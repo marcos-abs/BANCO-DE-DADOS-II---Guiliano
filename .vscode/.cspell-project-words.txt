@@ -3,8 +3,10 @@ aviao
 Aviao
 Fabr
 Guiliano
+idaer
 idcid
 IDCID
+nomeaer
 nomecid
 NOMECID
 Passag

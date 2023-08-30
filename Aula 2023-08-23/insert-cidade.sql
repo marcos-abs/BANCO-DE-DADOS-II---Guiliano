@@ -6,7 +6,7 @@
 -- * File Created: Wednesday, 30 August 2023 14:13:54
 -- * Author: Marcos Antônio Barbosa de Souza (desouza.marcos@uol.com.br)
 -- * -----
--- * Last Modified: Wednesday, 30 August 2023 14:30:34
+-- * Last Modified: Wednesday, 30 August 2023 14:59:16
 -- * Modified By: Marcos Antônio Barbosa de Souza (desouza.marcos@uol.com.br)
 -- * -----
 -- * Copyright (c) 2023 All rights reserved, Marcos Antônio Barbosa de Souza
@@ -20,6 +20,6 @@
 -- @group BD2 Guiliano
 -- @name insert-cidade
 insert into "cidade" ("idcid", "nomecid", "ufcid")
-values (1, 'Goiania', 'GO'),
-    (2, 'Anapolis', 'GO'),
+values (4, 'Goiania', 'GO'),
+    (5, 'Campo Grande', 'MS'),
     (3, 'Brasilia', 'DF');
