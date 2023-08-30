@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-23T21:05:45-03:00
+
+====== Aula 2023-08-23 ======
+Criado quarta 23 agosto 2023
+
+SQL Structure Query Language
+* linguagem de 4ª geração
+* SQL-92 padrão tabelas e indices
+
+DDL Data Definition Language 
+* Descrever uma tabela
+* Chave estrangeiras (restrições)
+* Permissões (grant/revoke)
+* Datastore Oracle
+
+DML Data Manipulation Language
+DQL Data Query Language
+
+--------------------
+tipo dominio (tipo de dados)
+create domínio (cria tipos de dados dentro do SQL)
+--------------------
+* chave primaria sempre "not null"
+* chave estrangeira (foreign key) sempre aponta para uma coluna com índice único (primary key)
+--------------------
+Restrição de Integridade
+* Check (como o IF)
+	* Ex: check(QtdeHorasVoo > = 10)
+--------------------
+DML (CRUD)
+
+**__''aspas duplas nomes importantes''__**
+* nomes de colunas por exemplo
+
+--------------------
+DQL
+

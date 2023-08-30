@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-07T20:54:28-03:00
+
+====== Aula 2023-08-07 ======
+Criado segunda 07 agosto 2023
+
+Apresentação da Ementa e conversa, somente.

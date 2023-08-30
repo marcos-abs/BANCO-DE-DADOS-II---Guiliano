@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-28T21:33:18-03:00
+
+====== Aula 2023-08-28 ======
+Criado segunda 28 agosto 2023
+
+* select distinct nome_cid from cidade order by nome_cid desc
+	* Projeção (elimina as duplicidades)
+	* cuidado: com quantidades de campos
+
+

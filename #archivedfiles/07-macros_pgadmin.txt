@@ -1,0 +1,26 @@
+select
+select * from $SELECTION$ LIMIT 10
+
+
+count
+select count(*) from $SELECTION$
+
+
+
+
+column_name
+SELECT table_catalog, table_schema,table_name,
+
+ordinal_position,','||column_name as column_name, 
+
+data_type,is_nullable,character_maximum_length
+
+FROM information_schema.columns
+
+WHERE table_schema||'.'||table_name = '$SELECTION$'
+
+or(position('.' in '$SELECTION$')<=0 
+
+and table_name='$SELECTION$')
+
+

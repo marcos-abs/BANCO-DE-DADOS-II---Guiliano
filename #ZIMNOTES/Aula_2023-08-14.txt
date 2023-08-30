@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-08-14T20:54:28-03:00
+
+====== Aula 2023-08-14 ======
+Criado segunda 14 agosto 2023
+
+Dica Cledimar:
+[[CodeWars (Workana e 99Freelas)
+|**__''CodeWars (Workana e 99Freelas)''__**]]
+[[https://codewars.com
+
+null%20<>%20null
+
+Opera%C3%A7%C3%A3o%20Agregada
+
+|**__''https://codewars.com''__**]]
+
+[[https://codewars.com
+
+null%20<>%20null
+
+Opera%C3%A7%C3%A3o%20Agregada
+
+|**__''null <> null''__**]]
+
+[[https://codewars.com
+
+null%20<>%20null
+
+Opera%C3%A7%C3%A3o%20Agregada
+
+|**__''Operação Agregada''__**]]
+
+**__[[https://discord.gg/URNvKxGan9|''https://discord.gg/URNvKxGan9'']]__**

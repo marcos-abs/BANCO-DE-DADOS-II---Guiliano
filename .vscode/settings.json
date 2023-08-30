@@ -1,0 +1,52 @@
+{
+    "cSpell.userDictionaryLocation": "/home/marcos/.path-shortcuts/bd2/.vscode/.cspell-user-words.txt",
+    "cSpell.projectDictionaryLocation": "/home/marcos/.path-shortcuts/bd2/.vscode/.cspell-project-words.txt",
+    "cSpell.customDictionaries": {
+        "project-words": {
+            "name": "project-words",
+            "path": "/home/marcos/.path-shortcuts/bd2/.vscode/.cspell-project-words.txt",
+            "description": "Words used in this project",
+            "addWords": true
+        },
+        "custom": true,
+    },
+    "psi-header.variables": [
+        [
+            "projectname",
+            "Banco de Dados II - Prof. Guiliano"
+        ],
+        [
+            "projectpath",
+            "/home/marcos/.path-shortcuts/bd2"
+        ],
+        [
+            "projectCreationYear",
+            "2023"
+        ],
+        [
+            "company",
+            "Marcos Antônio Barbosa de Souza"
+        ],
+        [
+            "author",
+            "Marcos Antônio Barbosa de Souza"
+        ],
+        [
+            "authoremail",
+            "desouza.marcos@uol.com.br"
+        ],
+    ],
+    "editor.tabSize": 4,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "BD2 Guiliano",
+            "username": "root",
+            "password": "root",
+            "database": "postgres"
+        }
+    ]
+}
