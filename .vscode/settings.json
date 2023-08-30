@@ -48,5 +48,12 @@
             "password": "root",
             "database": "postgres"
         }
-    ]
+    ],
+    "openInGitHub.defaultPullRequestBranch": "main",
+    "openInGitHub.defaultBranch": "main",
+    "openInGitHub.requireSelectionForLines": false,
+    "openInGitHub.useCommitSHAInURL": false,
+    "openInGitHub.providerType": "gitlab",
+    "openInGitHub.gitlabUrl": "https://gitlab.com",
+    "openInGitHub.providerProtocol": "https"
 }
